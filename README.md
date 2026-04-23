@@ -1,4 +1,4 @@
-# StaroDrive - Cloudflare R2 网盘系统 test deploy
+# StaroDrive - Cloudflare R2 网盘系统
 
 基于 Cloudflare R2 + Pages 搭建的现代化在线网盘系统。
 
