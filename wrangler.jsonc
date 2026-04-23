@@ -2,6 +2,12 @@
   "name": "cloudflare-r2-oss-plus",
   "pages_build_output_dir": ".",
   "compatibility_date": "2026-04-23",
+  "kv_namespaces": [
+    {
+      "binding": "ossShares",
+      "id": "d99b21350dd141a6a542f9a36279119e"
+    }
+  ],
   "r2_buckets": [
     {
       "binding": "BUCKET",
